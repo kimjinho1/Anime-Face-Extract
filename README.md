@@ -93,11 +93,11 @@ EX)
 ```
   
 
+<!--
 ## Developers  
 |Name|Github|Email|
 |:--:|:--:|:--:|
 |김진호|[@kimjinho1](https://github.com/kimjinho1)|rlawlsgh8113@naver.com|
-<!--
 |남영우|[@yw0nam](https://github.com/yw0nam)|spow2544@gmail.com|
 |이경현|[@Jovinus](https://github.com/Jovinus)|lkh256@gmail.com|
 -->
